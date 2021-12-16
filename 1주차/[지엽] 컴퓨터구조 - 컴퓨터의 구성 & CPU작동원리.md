@@ -78,7 +78,7 @@ CPU - 컴퓨터 시스템을 통제하고 프로그램의 연산을 실행하고
 
 - 누산기(AC) : 연산 결과를 임시로 저장
 
-![CPU](C:\Users\User\Desktop\새 폴더\ssafy\SSAFY 수업자료\cs지식\img\CPU.PNG)
+![CPU](https://github.com/ssafycodingstudy/CS_study/blob/main/img/CPU.PNG?raw=true)
 
 ### 중앙처리장치의 동작 과정
 
@@ -162,7 +162,7 @@ CPU - 컴퓨터 시스템을 통제하고 프로그램의 연산을 실행하고
 
 ### 사이클 동작의 마이크로 연산
 
-![CommandCycle](C:\Users\User\Desktop\새 폴더\ssafy\SSAFY 수업자료\cs지식\img\CommandCycle.PNG)
+![CommandCycle](https://github.com/ssafycodingstudy/CS_study/blob/main/img/CommandCycle.PNG?raw=true)
 
 ##### 인출 사이클 동작의 마이크로연산 
 
