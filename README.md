@@ -22,11 +22,17 @@
   - 패리티 비트 & 해밍 코드
   - ARM 프로세서
 
-- 3주차 (22/01/06)
+- 3주차 (22/01/06) : 발표자 정지영
   - 운영체제란
   - 프로세스 vs 스레드
   - 프로세스 주소 공간
   - 인터럽트(Interrupt)
 
+`매주 4개의 주제 선정, 4명이서 랜덤으로 정해진 주제 발표하는 방식으로 변경`
 
+- 4주차 (22/01/13) 
+  - 시스템 콜(System Call)
+  - PCB와 Context Switching
+  - IPC(Inter Process Communication)
+  - CPU 스케줄링
 
