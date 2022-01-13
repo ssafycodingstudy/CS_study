@@ -36,3 +36,9 @@
   - IPC(Inter Process Communication)
   - CPU 스케줄링
 
+- 5주차 (22/01/20)
+  - 데드락(DeadLock)
+  - Race Condition
+  - 세마포어(Semaphore) & 뮤텍스(Mutex)
+  - 페이징 & 세그먼테이션 (PDF)  
+
