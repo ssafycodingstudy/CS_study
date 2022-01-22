@@ -40,5 +40,12 @@
   - 데드락(DeadLock)
   - Race Condition
   - 세마포어(Semaphore) & 뮤텍스(Mutex)
-  - 페이징 & 세그먼테이션 (PDF)  
+  - 페이징 & 세그먼테이션
+
+- 6주차 (22/01/27)
+  - 페이지 교체 알고리즘
+  - 메모리(Memory)
+  - 파일 시스템</br>
+  - OSI 7 계층 
+  
 
