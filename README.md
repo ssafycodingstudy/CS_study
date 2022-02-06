@@ -48,4 +48,9 @@
   - 파일 시스템</br>
   - OSI 7 계층 
   
+- 7주차 (22/02/10)
+  - TCP 3 way handshake & 4 way handshake
+  - TCP/IP 흐름제어 & 혼잡제어
+  - UDP
+  - 대칭키 & 공개키  
 
