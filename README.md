@@ -16,7 +16,7 @@
 ## 📌 발표 주제
 
 - 1주차 (21/12/16) : 발표자 김민관
-  - 컴퓨터 구조 기초
+  - 컴퓨터 구조 기초 **`Computer Architecture`**
   - 컴퓨터의 구성
   - 중앙처리장치(CPU) 작동 원리
 
@@ -27,7 +27,7 @@
   - ARM 프로세서
 
 - 3주차 (22/01/06) : 발표자 정지영
-  - 운영체제란
+  - 운영체제란 **`Operating System`**
   - 프로세스 vs 스레드
   - 프로세스 주소 공간
   - 인터럽트(Interrupt)
@@ -50,7 +50,7 @@
   - 페이지 교체 알고리즘
   - 메모리(Memory)
   - 파일 시스템</br>
-  - OSI 7 계층 
+  - OSI 7 계층 **`Network`**
   
 - 7주차 (22/02/10)
   - TCP 3 way handshake & 4 way handshake
@@ -66,3 +66,7 @@
 - 9주차 (22/02/24)
   - 로드 밸런싱(Load Balancing)
   - Blocking,Non-blocking & Synchronous,Asynchronous  
+ 
+- 10 (22/03/03)
+  - Blocking & Non-Blocking I/O
+  - 키(Key) 정리 **`DB`**
