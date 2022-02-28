@@ -67,6 +67,6 @@
   - 로드 밸런싱(Load Balancing)
   - Blocking,Non-blocking & Synchronous,Asynchronous  
  
-- 10 (22/03/03)
+- 10주차 (22/03/03)
   - Blocking & Non-Blocking I/O
   - 키(Key) 정리 **`DB`**
