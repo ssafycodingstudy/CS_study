@@ -74,3 +74,7 @@
 - 11주차 (22/03/10)
   - SQL - JOIN
   - SQL Injection 
+
+- 12주차 (22/03/17)
+  - SQL vs NoSQL
+  - 정규화(Nomalization) 
