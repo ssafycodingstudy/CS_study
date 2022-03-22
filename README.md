@@ -78,3 +78,7 @@
 - 12주차 (22/03/17)
   - SQL vs NoSQL
   - 정규화(Nomalization) 
+  
+- 13주차 (22/03/24)
+  - 이상(Anomaly)
+  - 인덱스(INDEX) 
