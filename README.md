@@ -82,3 +82,7 @@
 - 13주차 (22/03/24)
   - 이상(Anomaly)
   - 인덱스(INDEX) 
+
+- 14주차 (22/03/31)
+  - 트랜잭션(Transaction)
+  - 트랜잭션 격리 수준(Transaction Isolation Level)
