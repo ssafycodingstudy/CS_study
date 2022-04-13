@@ -90,5 +90,5 @@
   - 레디스(Redis)
 
 - 15주차 (22/04/14)
-  - 클린코드 & 리팩토링 / 클린코드 & 시큐어코딩 `Software Engineering`
-  - TDD(Test Driven Development)
+  - 클린코드 & 리팩토링 `Software Engineering`
+  - 클린코드 & 시큐어코딩 
