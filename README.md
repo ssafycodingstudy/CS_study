@@ -88,3 +88,7 @@
   - 트랜잭션 격리 수준(Transaction Isolation Level)
   - 저장 프로시저(Stored PROCEDURE)
   - 레디스(Redis)
+
+- 15주차 (22/04/14)
+  - 클린코드 & 리팩토링 / 클린코드 & 시큐어코딩 `Software Engineering`
+  - TDD(Test Driven Development)
