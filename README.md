@@ -92,3 +92,7 @@
 - 15주차 (22/04/14)
   - 클린코드 & 리팩토링 `Software Engineering`
   - 클린코드 & 시큐어코딩 
+
+- 16주차 (22/04/21)
+  - TDD(Test Driven Development)
+  - 애자일(Agile)
