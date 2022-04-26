@@ -90,9 +90,13 @@
   - 레디스(Redis)
 
 - 15주차 (22/04/14)
-  - 클린코드 & 리팩토링 `Software Engineering`
+  - 클린코드 & 리팩토링 **`Software Engineering`**
   - 클린코드 & 시큐어코딩 
 
 - 16주차 (22/04/21)
   - TDD(Test Driven Development)
   - 애자일(Agile)
+  
+- 17주차 (22/04/28)
+  - 객체 지향 프로그래밍(Object-Oriented Programming)
+  - 함수형 프로그래밍(Fuctional Programming) 
