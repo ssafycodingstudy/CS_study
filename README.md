@@ -100,3 +100,11 @@
 - 17주차 (22/04/28)
   - 객체 지향 프로그래밍(Object-Oriented Programming)
   - 함수형 프로그래밍(Fuctional Programming) 
+
+- 18주차 (22/05/05)
+  - 데브옵스(DevOps)
+  - 서드 파티(3rd party)
+
+- 19주차 (22/05/26)
+  - 마이크로서비스 아키텍처(MSA)
+  - 디자인패턴 **`Design Pattern`**
